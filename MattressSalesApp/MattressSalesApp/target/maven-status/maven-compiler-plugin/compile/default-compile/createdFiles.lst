@@ -1,0 +1,8 @@
+Product.class
+com\mycompany\mattresssalesapp\MattressSalesApp.class
+MattressAppFrame.class
+IProduct.class
+ProductCalculations.class
+SalesReportApp.class
+PrintProduct.class
+IProductCalculations.class
